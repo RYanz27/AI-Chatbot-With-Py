@@ -1,7 +1,8 @@
+Hey Guys!! I am a student from the Telkom Purwokerto Institute of Technology, this is my college project
 # AI-Chatbot-With-Py
 
 AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
-Hey Guys!! I am a student from the Telkom Purwokerto Institute of Technology, this is my college project
+
 
 
 It's a very Informative Session that discloses about ChatBots and Their Internal Working Architecture along with Programming.
